@@ -66,8 +66,24 @@ public class WorkCycleEditorWindow : EditorWindow
         GUILayout.Label("---/analytics", EditorStyles.label);
         GUILayout.Label("---/advertisement", EditorStyles.label);
 
-    }
 
+
+///////////////
+
+
+    EditorGUILayout.Space();
+        EditorGUILayout.Space();
+        EditorGUILayout.Space();
+
+    GUILayout.Label("Workflow Elements", EditorStyles.boldLabel);
+            GUILayout.Label("polish and deployment ", EditorStyles.label);
+        GUILayout.Label("---/build and stroage/ ", EditorStyles.label);
+        GUILayout.Label("---/ops", EditorStyles.label);
+        GUILayout.Label("---/analytics", EditorStyles.label);
+        GUILayout.Label("---/advertisement", EditorStyles.label);
+
+
+    }
 
 
 

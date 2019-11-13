@@ -1,11 +1,14 @@
 {
   "name": "com.madlibrarianstudios.simuframework",
   "displayName": "Simuframework Toolkit",
-  "version": "0.0.99",
+  "version": "0.0.991",
   "unity": "2019.1",
   "description": "Framework for creating games and simulators that can scale.",
   "keywords": [
     "Framework"
   ],
-  "category": "Tools"
+  "category": "Tools",
+  "dependencies": {
+    "com.unity.textmeshpro": "2.0.0"
+  }
 }

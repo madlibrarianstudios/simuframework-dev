@@ -11,8 +11,8 @@ using UnityEngine.SceneManagement;
 public class SingletonGameManager : MonoBehaviour
 {
 
-    public string gameName = "Pixel Space";
-    public string Version = "1.0.1";
+    public string gameName;// = "Pixel Space";
+    public string Version;// = "1.0.1";
 
 
     // public LevelManager levelManager;

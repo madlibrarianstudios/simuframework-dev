@@ -5,7 +5,35 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
-## [0.1.0] - 2019-11-3
+## [0.0.991] - 2019-11-13
+### Updated
+- added dependcy to package.json for tmpro
+### Added
+- uimanager, ilevel, levelmanager code for singleton. 
+### Fixed
+- UI. gather layout and texture aranagement 
+- MenuItem (added simuframework/windows/singleton/2d) as true; others as false. placefolder for other architectures. 
+### Moved 
+- CreateLevel2dEditorWindow to Editor/Archive
+- CreateProjectFoldersEditorWindow to Editor/Archive
+- CreateSceneEditorWindow to Editor/Archive
+- MyWindow to Editor/Archive
+- SimuframeworkWindow to Editor/Archive
+- SimuframeworkSimulatorWindow to Editor/Archive
+- ArchitectureEditorWindow, InfrastructureEditorWindow, WorkCycleEditorWindow moved to Editor/Windows/Help folder
+- Editor/MenuItem
+- Editor/Windows/Workflow
+- Editor/UilityToolkit
+
+### Updated
+- Menu Item
+- Internal Dev Folder Strutucture
+- todo
+- CHANGELOG.md
+- Singleton.cs
+- GameManagerSingleton.cs
+
+
 
 
 ## [0.0.99] - 2019-11-3

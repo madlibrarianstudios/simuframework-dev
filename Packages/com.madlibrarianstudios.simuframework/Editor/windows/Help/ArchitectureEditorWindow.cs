@@ -23,3 +23,32 @@ public class ArchitectureEditorWindow : EditorWindow {
     }
 }
 
+
+// A. Assets
+//         -creating folders
+//         -creating scenes
+//         -adding prefabs
+        
+
+// B. GameObject
+//         -add runtime gameobjects
+//             -game manager
+//             -level manager
+//             -audio manager
+//         -Player
+//         -Level
+
+// C. Component
+//         -menu building
+
+
+
+// D. Unity, File, Edit, Window, and Help
+
+// E. New Menu Item
+
+//         All of the built in menus across the top (A,B,C, and D)
+//         Right Click context menu for Hierachy window (B)
+//         Right Click context menu for Project window (A)
+//         Add Component Menu in Inspector when inspecting a GameObject (C)
+//         New custom menus (E)

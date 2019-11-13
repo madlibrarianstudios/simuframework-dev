@@ -11,3 +11,42 @@ hint:
 hint:   git rm --cached Packages/com.madlibrarianstudios.simuframework
 hint: 
 hint: See "git help submodule" for more information.
+
+
+
+
+
+
+
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin <project url>
+git push -f origin master
+
+
+
+
+
+///////////
+
+git init
+git add .
+git commit -m "deleted and updating .git dir"
+git remote add origin https://github.com/madlibrarianstudios/simuframework-dev
+git push -f origin master
+git status
+git info
+git submodule add https://github.com/madlibrarianstudios/simuframework Packages/com.madlibrarianstudios.simuframework
+git ls-files --stage Packages/com.madlibrarianstudios.simuframework
+git gitmodule help
+git --help gitmodule
+cd Packages
+dir
+cd com.madlibrarianstudios.simuframework
+dir
+gitinit
+git init
+doskey /history
+git add .
+doskey /history

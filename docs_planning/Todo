@@ -1,3 +1,120 @@
+
+
+
+
+
+0.0.99 - Major vision shift. More inclusion into the Unity Editor Application.
+-singleton
+
+0.1.0 - EditorWindow for desiging a 2d singleton-based architecture game.
+-.1.1   [GameObject] GameManager and Prefab
+-.1.2   [GameObject] LevelManager
+-.1.3   [GameObject] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+0.2.0 - EditorWindow for desiging a 2d MVC-based architecture game.
+-.2.1   [GameObject] GameManager
+-.2.2   [GameObject] LevelManager
+-.2.3   [GameObject] Inventorysystem
+
+0.3.0 - EditorWindow for desiging a 2d ObserverPattern-based architecture game.
+-.3.1   [GameObject] GameManager
+-.3.2   [GameObject] LevelManager
+-.3.3   [GameObject] 
+
+0.4.0 - EditorWindow for desiging a 2d ESC-based architecture game.
+-.4.1   [GameObject] GameManager
+-.4.2   [GameObject] LevelManager
+-.4.3   [GameObject] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+##other features
+0.0.X - update menu item
+0.0.X - update ui 
+0.0.X - fine tune menu
+
+
+##other features
+0.X.X -  - card system for organizing workflow and versionign
+0.X.X -  - creating editorwindows for setting configuration at framework level. (i.e. )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+///////////////////
+Workflow windows
+
+singleton app
+2d 
+
+
+windows/simuframwork workflows/ singleton app/ 2d game
+windows/simuframwork workflows/ singleton app/ 3d game
+windows/simuframwork workflows/ singleton app/ Simulator
+windows/simuframwork workflows/ mvc app/ 2d game
+windows/simuframwork workflows/ mvc app/ 3d game
+windows/simuframwork workflows/ mvc app/ Simulator
+windows/simuframwork workflows/ ECS app/ 2d game
+windows/simuframwork workflows/ ECS app/ 3d game
+windows/simuframwork workflows/ ECS app/ Simulator
+windows/simuframwork workflows/ ObserverPattern app/ 2d game
+windows/simuframwork workflows/ ObserverPattern app/ 3d game
+windows/simuframwork workflows/ ObserverPattern app/ Simulator
+
+
+
+
+
+
+
+https://blog.redbluegames.com/guide-to-extending-unity-editors-menus-b2de47a746db
+
+
 find tools that I can incorporate
     incorporate third party tools
     update legal requirements

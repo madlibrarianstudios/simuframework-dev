@@ -1,7 +1,7 @@
 {
   "name": "com.madlibrarianstudios.simuframework",
   "displayName": "Simuframework Toolkit",
-  "version": "0.0.991",
+  "version": "0.0.992",
   "unity": "2019.1",
   "description": "Framework for creating games and simulators that can scale.",
   "keywords": [

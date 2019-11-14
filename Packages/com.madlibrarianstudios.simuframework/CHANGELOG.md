@@ -5,11 +5,22 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [0.0.992] - 2019-11-14
+### Updated
+- 2d singleton game editorwindow - three columns; update text for infrastructure related info
+- CHANGELOG.md
+- package.json - update version to 0.0.992
+### Deleted
+- Assets folder content from development. 
+
+
+
+
 ## [0.0.991] - 2019-11-13
 ### Updated
 - added dependcy to package.json for tmpro
 ### Added
-- uimanager, ilevel, levelmanager code for singleton. 
+- uimanager, ilevel, levelmanager code for singleton. (unimplemented)
 ### Fixed
 - UI. gather layout and texture aranagement 
 - MenuItem (added simuframework/windows/singleton/2d) as true; others as false. placefolder for other architectures. 
